@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como coordenador de processamento de dados
 - 🌱 Sou estudante de Ciências da Computação 
-- 😄 Pronouns: ele/dele
 <div align="center">
 <a href="https://github.com/NatanaelVitoriano">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelvitoriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
