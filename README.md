@@ -3,9 +3,9 @@
 - 🔭 Hoje trabalho como suporte técnico na Digimax!
 - 🌱 Sou estudante de Ciências da Computação, cursando o 7° periodo.
 <div align="center">
-<a href="https://github.com/NatanaelVitoriano">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelvitoriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelvitoriano&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/natanaelvitoriano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanaelvitoriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelvitoriano&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
