@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Natanael Vitoriano 👋
 
 - 🔭 Hoje trabalho como suporte técnico na Digimax!
-- 🌱 Sou estudante de Ciências da Computação, cursando o 7° periodo.
+- 🌱 Sou estudante de Ciências da Computação, cursando o 8° periodo (Ultimo!).
 <div align="center">
   <a href="https://github.com/natanaelvitoriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanaelvitoriano&include_all_commits=true&theme=dark"/>
