@@ -4,7 +4,7 @@
 - 🌱 Sou estudante de Ciências da Computação, cursando o 8° periodo (Ultimo!).
 <div align="center">
   <a href="https://github.com/natanaelvitoriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelVitoriano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelVitoriano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelVitoriano&theme=vue-dark&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelVitoriano&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
