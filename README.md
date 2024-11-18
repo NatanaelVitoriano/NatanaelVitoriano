@@ -4,16 +4,17 @@
 - 🌱 Sou estudante de Ciências da Computação, cursando o 8° periodo (Ultimo!).
 <div align="center">
   <a href="https://github.com/natanaelvitoriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelVitoriano&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelVitoriano&theme=vue-dark&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelVitoriano&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelVitoriano&theme=vue-dark&langs_count=5&hide_border=true&layout=compact"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   ##
   
