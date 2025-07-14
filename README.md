@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Natanael Vitoriano 👋
 
 - 🔭 Hoje trabalho como suporte técnico na Digimax!
-- 🌱 Sou estudante de Ciências da Computação, cursando o 8° periodo (Ultimo!).
+- 👨‍🎓 Sou Cientista da Computação.
 <div align="center">
   <a href="https://github.com/natanaelvitoriano">
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelVitoriano&theme=vue-dark&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelVitoriano&theme=vue-dark&langs_count=5&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelVitoriano&theme=vue-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelVitoriano&theme=vue-dark&langs_count=5&hide_border=true&layout=compact&include_all_commits=true&count_private=true"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
