@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Natanael Vitoriano 👋
 
-- 🔭 Hoje trabalho como suporte técnico na Digimax!
+- 🔭 Hoje trabalho como analista de sistemas na Digimax!
 - 👨‍🎓 Sou Cientista da Computação.
 <div align="center">
   <a href="https://github.com/natanaelvitoriano">
